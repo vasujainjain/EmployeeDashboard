@@ -47,3 +47,6 @@ Team Pulse Dashboard is a modern, responsive web application for tracking team p
 
 3. **Run the development server:**
     npm run dev
+
+##  Deployed on Vercel
+    Live link : https://pulse-dashboard-coral.vercel.app/
