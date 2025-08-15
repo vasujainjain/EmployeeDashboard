@@ -9,7 +9,7 @@ const roleSlice = createSlice({
   name: 'role',
   initialState: {
     currentRole: 'member', // or 'lead'
-    currentUser: 'Nishant Dwivedi',
+    currentUser: 'Vasu Jain',
     darkMode: getInitialDarkMode(), // <-- initialize from localStorage
   },
   reducers: {

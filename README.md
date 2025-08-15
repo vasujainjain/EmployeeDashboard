@@ -1,4 +1,4 @@
-# Team Pulse Dashboard
+# Team Employee Dashboard
 
 A productivity monitoring tool for internal teams. This dashboard allows **Team Leads** to monitor member statuses and assign tasks, while **Team Members** can update their status and manage progress on tasks.
 

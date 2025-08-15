@@ -3,7 +3,7 @@ import { createSlice } from '@reduxjs/toolkit';
 const initialMembers = [
   {
     id: 1,
-    name: 'Nishant Dwivedi',
+    name: 'Vasu Jain',
     status: 'Working',
     tasks: [],
   },
@@ -75,7 +75,7 @@ const membersSlice = createSlice({
     },
     deleteMember: (state, action) => {
   const memberToDelete = state.members.find(m => m.id === action.payload);
-  if (memberToDelete && memberToDelete.name !== 'Nishant Dwivedi') {
+  if (memberToDelete && memberToDelete.name !== 'Vasu Jain') {
     state.members = state.members.filter(m => m.id !== action.payload);
   }
 },

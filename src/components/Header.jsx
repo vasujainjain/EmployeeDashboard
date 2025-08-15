@@ -31,7 +31,7 @@ export default function Header() {
   return (
     <header className="flex items-center justify-between px-8 py-4 bg-white dark:bg-gray-900 shadow-md">
       <div className="flex items-center gap-3">
-        <span className="text-2xl font-bold text-blue-600">Team Pulse Dashboard</span>
+        <span className="text-2xl font-bold text-blue-600">Team Employee Dashboard</span>
         <span className="ml-4 px-2 py-1 rounded bg-blue-100 text-blue-700 text-xs font-semibold">
           {roleLabels[currentRole]}
         </span>
