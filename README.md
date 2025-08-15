@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Team Employee Dashboard
 
 A productivity monitoring tool for internal teams. This dashboard allows **Team Leads** to monitor member statuses and assign tasks, while **Team Members** can update their status and manage progress on tasks.
@@ -35,19 +36,23 @@ Team Pulse Dashboard is a modern, responsive web application for tracking team p
 
 ---
 
+=======
+>>>>>>> 9aac98b4429a2ec742fc4265913facb407aeee4d
 ## ⚙️ Setup Instructions
 
 1. **Clone the repository:**
    ```sh
    git clone https://github.com/your-username/appversal-dashboard.git
    cd appversal-dashboard
+   ```
 
 2. **Install Dependencies:**
+   ```sh
    npm install
+   ```
 
 3. **Run the development server:**
-    npm run dev
-
-##  Deployed on Vercel
-    [Live Demo](https://pulse-dashboard-coral.vercel.app/)
-
+   ```sh
+   npm run dev
+   ```
+// ...existing code...
